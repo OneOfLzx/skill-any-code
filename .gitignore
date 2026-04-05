@@ -1,0 +1,10 @@
+tests/.temp-tests/*
+tests/coverage/*
+tests/.cache/*
+dist/*
+node_modules/*
+*/.skill-any-code-result/*
+.skill-any-code-result/*
+~/*
+bugs/*
+docs

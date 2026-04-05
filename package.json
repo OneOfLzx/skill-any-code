@@ -1,6 +1,6 @@
 {
   "name": "skill-any-code",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Skill Any Code: CLI tool for large codebase understanding and analysis",
   "main": "dist/index.js",
   "bin": {
